@@ -15,7 +15,8 @@ sda --> A5
 # IR SENSOR to UNO
 
 gnd --> gnd
-vcc --> 5v*/
+vcc --> 5v
+out --> digital pin 2*/
 
 #include <U8g2lib.h>
 
