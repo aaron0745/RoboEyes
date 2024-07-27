@@ -10,7 +10,7 @@ Components :
 vcc --> 5v
 gnd --> gnd
 sck/scl --> A5
-sda --> A5
+sda --> A4
 
 # IR SENSOR to UNO
 
